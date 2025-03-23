@@ -1,8 +1,6 @@
 <h1 align = "center"> <b> THE GREATER LONDON CRIMES ANALYSIS DASHBOARD </b> </h1>
 
-<div align="center">
-  <img src = Dashboard.png />
-</div>
+
 
 ## 📌 Overview
 <p> This project presents an interactive Power BI dashboard for analyzing crime trends in Greater London, utilizing Microsoft SQL Server for data storage and management. The dashboard offers detailed insights and interactive analytics into crime distributions, temporal patterns, and geographical hotspots to support efficient data-driven decision-making in crime prevention and law enforcement. </p>
