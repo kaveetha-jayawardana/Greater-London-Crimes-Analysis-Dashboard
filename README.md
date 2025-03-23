@@ -3,6 +3,7 @@
 <div align="center">
   <img src = Dashboard.png />
 </div>
+<br>
 
 ## 📌 Overview
 <p> This project presents an interactive Power BI dashboard for analyzing crime trends in Greater London, utilizing Microsoft SQL Server for data storage and management. The dashboard offers detailed insights and interactive analytics into crime distributions, temporal patterns, and geographical hotspots to support efficient data-driven decision-making in crime prevention and law enforcement. </p>
@@ -27,11 +28,23 @@
 * T-SQL : Querying and data processing.
 <br>
 
-## 📌 Pre-requisites
+## 📌 Pre-requisites for the Project
 To run this project, ensure you have:
 * Microsoft SQL Server (for database management)
 * Power BI Desktop (for dashboard visualization)
 * Windows OS (for compatibility with Power BI)
 <br>
 
+## 📌 Documentation
+This repository includes:
+* Power BI dashboard file
+* SQL query scripts
+* Technical Report with implementation details
+* Image of the Dashboard
+<br>
+
+## 📝 References
+* Dataset Source: UK Metropolitan Police Data (https://data.london.gov.uk/dataset/mps-monthly-crime-dahboard-data)
+* Official Crime Reports: Metropolitan Police (https://www.met.police.uk/)
+<br>
 
