@@ -10,7 +10,7 @@
 
 <p> The project consists of a SQL database for structured data storage, data processing and transformation to clean and prepare the dataset, and a Power BI dashboard that visualizes crime trends through maps, charts, and graphs. </p>
 
-<p>🤝 This project was developed as part of a university assignment for the BSc in Applied Data Science Communication degree program.</p>
+<p>🤝 This project was developed by a group of 4 first year undergraduates, as part of a university assignment for the BSc in Applied Data Science Communication degree program.</p>
 <p>⚠️ Note: Since we are not actively maintaining this project, feel free to fork and adapt it for your own use. </p>
 <br>
 
